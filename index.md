@@ -6,4 +6,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 
 ## 📝 Devlog Entries
 
-- [Day 1, 2, & 3 – My learning moments so far] (devlog/2025-05-18_thru_2025-05-20_ui_nodes_and_more)
+- [Day 1, 2, & 3 – My learning moments so far](devlog/2025-05-18_thru_2025-05-20_ui_nodes_and_more.md)
