@@ -13,3 +13,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 6 – Town Scene, Transitions, and Audio Integration](devlog/2025-05-23_day6.md)
 - [Day 7 – Overworld Map, Scene Buttons, and Inventory Persistence](devlog/2025-05-26_day7.md)
 - [Day 8 – Day/Night System, UI Time Display, and Icon Redesign](devlog/2025-05-27_day8.md)
+- [ay 9 – Chest Inventory System, Signal Timing Fixes, and C# Property Insight](devlog/2025-05-28_day9.md)
