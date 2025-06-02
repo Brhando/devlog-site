@@ -15,3 +15,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 8 – Day/Night System, UI Time Display, and Icon Redesign](devlog/2025-05-27_day8.md)
 - [Day 9 – Chest Inventory System, Signal Timing Fixes, and C# Property Insight](devlog/2025-05-28_day9.md)
 - [Day 10 – Combat Design, Singletons, and More](devlog/2025-06-01_day10.md)
+- [Day 11 – Centralization, Combat Creation, and a New Dungeon UI](devlog/2025-06-02_day11.md)
