@@ -14,3 +14,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 7 – Overworld Map, Scene Buttons, and Inventory Persistence](devlog/2025-05-26_day7.md)
 - [Day 8 – Day/Night System, UI Time Display, and Icon Redesign](devlog/2025-05-27_day8.md)
 - [Day 9 – Chest Inventory System, Signal Timing Fixes, and C# Property Insight](devlog/2025-05-28_day9.md)
+- [Day 10 – Combat Design, Singletons, and More](devlog/2025-06-01_day10.md)
