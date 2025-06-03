@@ -16,3 +16,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 9 – Chest Inventory System, Signal Timing Fixes, and C# Property Insight](devlog/2025-05-28_day9.md)
 - [Day 10 – Combat Design, Singletons, and More](devlog/2025-06-01_day10.md)
 - [Day 11 – Centralization, Combat Creation, and a New Dungeon UI](devlog/2025-06-02_day11.md)
+- [Day 12 – The Skeleton's Bite](devlog/2025-06-03_day12.md)
