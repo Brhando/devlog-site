@@ -17,3 +17,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 10 – Combat Design, Singletons, and More](devlog/2025-06-01_day10.md)
 - [Day 11 – Centralization, Combat Creation, and a New Dungeon UI](devlog/2025-06-02_day11.md)
 - [Day 12 – The Skeleton's Bite](devlog/2025-06-03_day12.md)
+- [Day 13 – More Combat Updates](devlog/2025-06-04_day13.md)
