@@ -19,3 +19,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 12 – The Skeleton's Bite](devlog/2025-06-03_day12.md)
 - [Day 13 – More Combat Updates](devlog/2025-06-04_day13.md)
 - [Day 14 – Dungeon Developments](devlog/2025-06-05_day14.md)
+- [Day 15 – Design Cycles and Dream Scenes](devlog/2025-06-06_day15.md)
