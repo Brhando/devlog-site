@@ -21,3 +21,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 14 – Dungeon Developments](devlog/2025-06-05_day14.md)
 - [Day 15 – Design Cycles and Dream Scenes](devlog/2025-06-06_day15.md)
 - [Day 16 — The Crafting System, UI, and Icons](devlog/2025-06-11_day16.md)
+- [Day 17 — Centralizing the Systems](devlog/2025-06-12_day17.md)
