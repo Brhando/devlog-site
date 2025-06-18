@@ -23,3 +23,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 16 — The Crafting System, UI, and Icons](devlog/2025-06-11_day16.md)
 - [Day 17 — Centralizing the Systems](devlog/2025-06-12_day17.md)
 - [Day 18 — Combat Refactor](devlog/2025-06-15_day18.md)
+- [Day 19 – Player Class System & Dungeon Refactor Complete](devlog/2025-06-17_day19.md)
