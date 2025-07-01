@@ -25,3 +25,4 @@ I post daily devlog entries hoping to catch all of my best "aha" moments, facepa
 - [Day 18 — Combat Refactor](devlog/2025-06-15_day18.md)
 - [Day 19 – Player Class System & Dungeon Refactor Complete](devlog/2025-06-17_day19.md)
 - [Day 20 – Fleshing Out Subclasses and Devotion Tracking](devlog/2025-06-18_day20.md)
+- [Day 21 – Debuffs](devlog/2025-07-01_day21.md)
